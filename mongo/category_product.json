@@ -1,0 +1,30 @@
+[
+    {
+		"title_cat_prod": "Điện tử",
+		"slug_cat_prod": "dien-tu"
+    },
+    {
+		"title_cat_prod": "Điện lạnh",
+		"slug_cat_prod": "dien-lanh"
+    },
+    {
+      "title_cat_prod": "Điện gia dụng",
+      "slug_cat_prod": "dien-gia-dung"
+    },
+    {
+      "title_cat_prod": "Thiết bị làm đẹp và chăm sóc cá nhân",
+      "slug_cat_prod": "thiet-bi-lam-dep-va-cham-soc-ca-nhan"
+    },
+    {
+      "title_cat_prod": "Gia dụng",
+      "slug_cat_prod": "gia-dung"
+    },
+    {
+      "title_cat_prod": "Phụ kiện",
+      "slug_cat_prod": "phu-kien"
+    },
+    {
+      "title_cat_prod": "Hàng thanh lý",
+      "slug_cat_prod": "hang-thanh-ly"
+    }
+  ]

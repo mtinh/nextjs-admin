@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "firstname": "Admin 1",
+    "lastname": "Account",
+    "username": "admin1",
+    "password": "$2y$10$A73cQYfDldP4o96ryRB37u9Ws2RAsTTOx9fenJuCcYLvO5QZz9ibu",
+    "email": "nvhai2306@gmail.com",
+    "phone": null,
+    "address": null,
+    "role": "ADMIN",
+    "created_at": "2026-11-04T13:01:03.657Z",
+    "updated_at": "2026-11-04T13:01:03.657Z"
+  },
+  {
+    "id": 2,
+    "firstname": "Admin 2",
+    "lastname": "Account",
+    "username": "admin2",
+    "password": "$2y$10$8cqHT21HINzMatcUeQ2ypOn/eJcEnoklCgDQLIEmmQLBmmkeVE64W",
+    "email": "admin2@gmail.com",
+    "phone": null,
+    "address": null,
+    "role": "ADMIN",
+    "created_at": "2026-11-04T13:01:03.657Z",
+    "updated_at": "2026-11-04T13:01:03.657Z"
+  },
+  {
+    "id": 3,
+    "firstname": "User 1",
+    "lastname": "Account",
+    "username": "user1",
+    "password": "$2y$10$Y3Q1sjXuNHo1KosrBReUHuCBfKTYL4iYSE.85HjvtbjLtJ/1Fmg3C",
+    "email": "user1@gmail.com",
+    "phone": null,
+    "address": null,
+    "role": "USER",
+    "created_at": "2026-11-04T13:01:03.657Z",
+    "updated_at": "2026-11-04T13:01:03.657Z"
+  },
+  {
+    "id": 4,
+    "firstname": "User 2",
+    "lastname": "Account",
+    "username": "user2",
+    "password": "$2y$10$LSNoLfzGi9GYvj2Jwz3rpeE2OWWP/cXspRT7gXHZyAsNe3lbv7hjm",
+    "email": "user2@gmail.com",
+    "phone": null,
+    "address": null,
+    "role": "USER",
+    "created_at": "2026-11-04T13:01:03.657Z",
+    "updated_at": "2026-11-04T13:01:03.657Z"
+  }
+]

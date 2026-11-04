@@ -1,0 +1,27 @@
+[
+	{
+		"name_brand": "E-Pro",
+		"slug_brand": "e-pro",
+		"enable_brand": true
+	},
+	{
+		"name_brand": "Toshiba",
+		"slug_brand": "toshiba",
+		"enable_brand": true
+	},
+	{
+		"name_brand": "Arirang",
+		"slug_brand": "arirang",
+		"enable_brand": true
+	},
+	{
+		"name_brand": "LG",
+		"slug_brand": "lg",
+		"enable_brand": true
+	},
+	{
+		"name_brand": "Samsung",
+		"slug_brand": "samsung",
+		"enable_brand": true
+	}
+]
